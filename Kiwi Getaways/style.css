@@ -1,0 +1,59 @@
+.section-footer{
+    padding: 10px
+}
+.section-full-screen{
+    height: 100vh
+}
+.icons {
+    padding: 0px 12px 0px
+}
+.color1 {
+    color: black
+}
+.color2 {
+   color: white
+}
+.color3 {
+   color: lightgray
+}
+.color4 {
+    color: #6fc7c1
+}
+.color5 {
+    color: #e4dcc4
+}
+a {
+    color: white;
+}
+
+.bg-color1 {
+    background: black
+}
+.bg-color2 {
+   background: white
+}
+.bg-color3 {
+   background: lightgray
+}
+.bg-color4 {
+    background: #6fc7c1
+}
+.bg-color5 {
+    background: #e4dcc4
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
